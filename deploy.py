@@ -1,2 +1,3 @@
-echo "hello world"
-python('Hello world')
+#first python script
+#echo "hello world"
+print('Hello world')
